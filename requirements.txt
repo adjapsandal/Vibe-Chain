@@ -1,0 +1,10 @@
+google-api-python-client
+python-dotenv
+youtube-transcript-api
+sentence-transformers
+transformers
+pillow
+requests
+pytube
+opencv-python
+scikit-learn
